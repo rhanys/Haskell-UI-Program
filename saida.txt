@@ -1,0 +1,16 @@
+Sua Entrada: 'masculino'
+OutPut: 'Sexo Selecionado: masculino'
+Data/Hora: 2016-04-20 16:06:15.350507 Hora oficial do Brasil
+
+Sua Entrada: 'masculino'
+OutPut: 'Sexo Selecionado: masculino'
+Data/Hora: 2016-04-20 16:06:17.8856521 Hora oficial do Brasil
+
+Sua Entrada: ''
+OutPut: 'Erro! A Input Box nao pode ficar em branco'
+Data/Hora: 2016-04-20 16:06:19.1907267 Hora oficial do Brasil
+
+Sua Entrada: 'teste'
+OutPut: 'Erro! Entre com um sexo válido (Masculino/Feminino). Sua resposta: teste'
+Data/Hora: 2016-04-20 16:06:21.69687 Hora oficial do Brasil
+
